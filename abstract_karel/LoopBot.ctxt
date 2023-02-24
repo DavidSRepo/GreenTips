@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ findBeeper()
+comment1.params=
+comment1.target=void\ emptyBeeperBag()
+comment2.params=
+comment2.target=void\ move5()
+comment3.params=n
+comment3.target=void\ layBeeper(int)
+numComments=4
